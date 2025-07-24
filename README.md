@@ -4,8 +4,7 @@
 ## 📌 Project Overview
 
 - **Project Title:** Household Dataset – Exploratory Data Analysis  
-- **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook  
-- **Duration:** *Mention your time duration here (e.g., 5 hours)*  
+- **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebook    
 - **Objective:** To perform a comprehensive statistical analysis on household data and derive key insights related to income, demographics, and ownership status.
 
 ---
